@@ -1,5 +1,5 @@
 #include <iostream>
-
+//시간 복잡도 O(N^2)
 //최소값을 찾은 후 맨 앞으로 보낸다
 using namespace std;
 int main()
