@@ -1,4 +1,4 @@
-# algorithm
+## Algorithm
 
 # **선택정렬**
 
