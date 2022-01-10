@@ -2,6 +2,7 @@
 
 ## **선택정렬**
 ![Selection-Sort-Animation](https://user-images.githubusercontent.com/68372094/148721259-27a581de-95ab-4050-99bf-1ecdbeea4f99.gif)
+출처:https://en.wikipedia.org/wiki/Selection_sort#/media/File:Selection-Sort-Animation.gif
 
 -i(0~N-1)번 인덱스부터 순차적으로 가장 작은 값이라 가정하고 i+1번째 인덱스부터 N-1번째 인덱스까지 
  i번째 인덱스보다 작은 값이 있는지 확인하여 있다면 i번째 인덱스로 교환(오른차순 기준)
