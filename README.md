@@ -18,4 +18,5 @@
 
 출처:https://en.wikipedia.org/wiki/Bubble_sort#/media/File:Bubble-sort-example-300px.gif
 
--배열을 N-1번 이웃하는 원소끼리 비교 정렬 
+-배열을 N-1번 이웃하는 원소끼리 비교 정렬하게 되면 맨 뒤에 가장 큰 값이 오게 된다.
+ 그 후 N-2,N-3번 이웃하는 원소끼리 비교 정렬 수행.
