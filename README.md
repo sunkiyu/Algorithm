@@ -24,4 +24,6 @@
  그 후 N-2,N-3번 이웃하는 원소끼리 비교 정렬 수행. 
  
  최악/최선 상관없이 시간복잡도=![download](https://user-images.githubusercontent.com/68372094/148721648-05bb0900-acbc-4cc9-b421-4c332045fee0.png)
+ ![image](https://user-images.githubusercontent.com/68372094/148722067-2ef9342e-d183-4b1c-8a95-956d6c43523e.png)
+ 
  [소스코드](https://github.com/sunkiyu/algorithm/blob/6a157a8a854bcd8a4344fa753d8ed75c3438f7de/Bubble%20Sort)
