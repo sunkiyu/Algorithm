@@ -27,3 +27,7 @@
  ![image](https://user-images.githubusercontent.com/68372094/148722140-c8de042a-b1ab-4188-8439-5ba526a21645.png)
  
  [소스코드](https://github.com/sunkiyu/algorithm/blob/6a157a8a854bcd8a4344fa753d8ed75c3438f7de/Bubble%20Sort)
+ 
+ ## **삽입정렬**
+ ![image](https://user-images.githubusercontent.com/68372094/148732495-54a0ab9e-ea5c-4588-80be-4d3b68eefa77.png)
+ ###### 출처:https://ko.wikipedia.org/wiki/%EC%82%BD%EC%9E%85_%EC%A0%95%EB%A0%AC#/media/%ED%8C%8C%EC%9D%BC:Insertion_sort_001.PNG
