@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/68372094/148515178-942082fc-deb6-495f-b92a-a41caeada715.png)
 
 ## **버블정렬**
--배열을 N-1번 이웃하는 원소끼리 비교 정렬 
-
 ![Bubble-sort-example-300px](https://user-images.githubusercontent.com/68372094/148721368-c4c1a84f-94cc-4391-a553-eeb7ae31350a.gif)
 출처:https://en.wikipedia.org/wiki/Bubble_sort#/media/File:Bubble-sort-example-300px.gif
+
+-배열을 N-1번 이웃하는 원소끼리 비교 정렬 
