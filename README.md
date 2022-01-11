@@ -50,8 +50,9 @@
 [소스코드](https://github.com/sunkiyu/algorithm/blob/c1d8548eaf8056174e1896809589e3cddeb9cc08/Insertion%20Sort)
 
  ## **퀵 정렬**
- ![image](https://user-images.githubusercontent.com/68372094/148881658-b2da6e22-f0bd-4e9c-808b-0afc76bb2831.png)
- ###### 출처:https://en.wikipedia.org/wiki/Quicksort#/media/File:Quicksort-diagram.svg
+![quick_sort_partition_animation](https://user-images.githubusercontent.com/68372094/148902851-5ae4e5d8-5399-4d63-9258-bb786a712a0f.gif)
+
+ ###### 출처:https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm
  -배열을 일정한 기준(Pivot)에 따라 Pivot 보다 더 큰 값과 더 작은 값으로 나누는 작업을 반복 수행하여 정렬한다.
  
  최선 시간복잡도= __O(NlogN)__
