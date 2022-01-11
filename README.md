@@ -24,9 +24,8 @@
 [소스코드](https://github.com/sunkiyu/algorithm/blob/1415051b34f4a976ca340cf1f9423e2705e1c242/SeletionSort)
 
 ## **버블 정렬**
-![Bubble-sort-example-300px](https://user-images.githubusercontent.com/68372094/148721368-c4c1a84f-94cc-4391-a553-eeb7ae31350a.gif)
-
-###### 출처:https://en.wikipedia.org/wiki/Bubble_sort#/media/File:Bubble-sort-example-300px.gif
+![BubbleSort_Avg_case](https://user-images.githubusercontent.com/68372094/148903352-50ecb789-5eac-45b1-93e5-af060eb9a74b.gif)
+###### 출처:https://codepumpkin.com/bubble-sort/
 
 -배열을 N-1번 이웃하는 원소끼리 비교 정렬하게 되면 맨 뒤에 가장 큰 값이 오게 된다.
  그 후 N-2,N-3번 이웃하는 원소끼리 비교 정렬 수행. 
