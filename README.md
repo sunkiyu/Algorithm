@@ -34,6 +34,7 @@
  -배열의 모든 원소를 순회하며 앞에서부터 이미 정렬된 배열 부분과 비교/삽입하여 정렬을 수행한다.
  
  최선 시간복잡도=![download](https://user-images.githubusercontent.com/68372094/148881222-92a0176b-677b-4979-83af-4329136ee492.png)
+ 
  최악 시간복잡도=![download](https://user-images.githubusercontent.com/68372094/148721648-05bb0900-acbc-4cc9-b421-4c332045fee0.png)
  
  ![image](https://user-images.githubusercontent.com/68372094/148880534-21a08ae3-c4a0-4a7e-b624-9e95bb8afd70.png)
