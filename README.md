@@ -53,5 +53,9 @@
  ![image](https://user-images.githubusercontent.com/68372094/148892507-b9b294bb-79eb-4936-9752-bfc5196cbc82.png)
  
  [소스코드](https://github.com/sunkiyu/Algorithm/blob/02b145e5f921cb65d1b4cfa754f69a54435fccb5/Sort/Quick%20Sort)
+ 
+  ## **병합 정렬**
+  ![Merge-sort-example-300px](https://user-images.githubusercontent.com/68372094/148897356-15bfa4bd-0025-4565-bc72-48edd0741c91.gif)
+
 
  
