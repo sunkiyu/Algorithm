@@ -63,8 +63,9 @@
  [소스코드](https://github.com/sunkiyu/Algorithm/blob/02b145e5f921cb65d1b4cfa754f69a54435fccb5/Sort/Quick%20Sort)
  
   ## **병합 정렬**
-  ![Merge-sort-example-300px](https://user-images.githubusercontent.com/68372094/148897356-15bfa4bd-0025-4565-bc72-48edd0741c91.gif)
-  ###### 출처:https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge-sort-example-300px.gif
+![MergeSort_Avg_case](https://user-images.githubusercontent.com/68372094/148902478-a0efb3cd-f697-43f1-bd97-11ece81c4e14.gif)
+  ###### 출처:https://codepumpkin.com/merge-sort-sorting-algorithm/
+ 
  -배열을 배열의 크기가 1이 될 때까지 두 부분 배열로 나누는 것을 반복한 후, 두 부분 배열을 원래 크기가 될 때까지 합친다.
  최선 시간복잡도= __O(NlogN)__
  
