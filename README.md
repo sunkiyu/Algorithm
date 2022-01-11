@@ -32,3 +32,8 @@
  ![image](https://user-images.githubusercontent.com/68372094/148732495-54a0ab9e-ea5c-4588-80be-4d3b68eefa77.png)
  ###### 출처:https://ko.wikipedia.org/wiki/%EC%82%BD%EC%9E%85_%EC%A0%95%EB%A0%AC#/media/%ED%8C%8C%EC%9D%BC:Insertion_sort_001.PNG
  -배열의 모든 원소를 순회하며 앞에서부터 이미 정렬된 배열 부분과 비교/삽입하여 정렬을 수행한다.
+ 
+ 최악/최선 상관엇이 시간복잡도=![download](https://user-images.githubusercontent.com/68372094/148721648-05bb0900-acbc-4cc9-b421-4c332045fee0.png)
+ 
+ ![image](https://user-images.githubusercontent.com/68372094/148880534-21a08ae3-c4a0-4a7e-b624-9e95bb8afd70.png)
+
