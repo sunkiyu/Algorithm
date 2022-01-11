@@ -54,9 +54,9 @@
  ###### 출처:https://en.wikipedia.org/wiki/Quicksort#/media/File:Quicksort-diagram.svg
  -배열을 일정한 기준(Pivot)에 따라 Pivot 보다 더 큰 값과 더 작은 값으로 나누는 작업을 반복 수행하여 정렬한다.
  
- 최선 시간복잡도= ### O(NlogN)
+ 최선 시간복잡도= __O(NlogN)__
  
- 최악 시간복잡도= ### O(N^2)
+ 최악 시간복잡도= __O(N^2)__
  
  ![image](https://user-images.githubusercontent.com/68372094/148892507-b9b294bb-79eb-4936-9752-bfc5196cbc82.png)
  
@@ -65,8 +65,8 @@
   ## **병합 정렬**
   ![Merge-sort-example-300px](https://user-images.githubusercontent.com/68372094/148897356-15bfa4bd-0025-4565-bc72-48edd0741c91.gif)
   ###### 출처:https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge-sort-example-300px.gif
- 최선 시간복잡도= O(NlogN)
+ 최선 시간복잡도= __O(NlogN)__
  
- 최악 시간복잡도= O(N^2)
+ 최악 시간복잡도= __O(N^2)__
 
  
