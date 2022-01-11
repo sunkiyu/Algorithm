@@ -56,6 +56,6 @@
  
   ## **병합 정렬**
   ![Merge-sort-example-300px](https://user-images.githubusercontent.com/68372094/148897356-15bfa4bd-0025-4565-bc72-48edd0741c91.gif)
-
+  ###### 출처:https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge-sort-example-300px.gif
 
  
