@@ -50,3 +50,8 @@
  
  최악 시간복잡도= O(N^2)
  
+ ![image](https://user-images.githubusercontent.com/68372094/148892507-b9b294bb-79eb-4936-9752-bfc5196cbc82.png)
+ 
+ [소스코드](https://github.com/sunkiyu/algorithm/blob/c1d8548eaf8056174e1896809589e3cddeb9cc08/Insertion%20Sort)
+
+ 
