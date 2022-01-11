@@ -44,4 +44,4 @@
  ## **퀵 정렬**
  ![image](https://user-images.githubusercontent.com/68372094/148881658-b2da6e22-f0bd-4e9c-808b-0afc76bb2831.png)
  ###### 출처:https://en.wikipedia.org/wiki/Quicksort#/media/File:Quicksort-diagram.svg
-
+ -배열을 일정한 기준(Pivot)에 따라 Pivot 보다 더 큰 값과 더 작은 값으로 나누는 작업을 반복 수행하여 정렬한다.
