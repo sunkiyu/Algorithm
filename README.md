@@ -1,5 +1,8 @@
 # Algorithm
 
+* 선택정렬
+* * *
+
 ## **선택 정렬**
 ![Selection-Sort-Animation](https://user-images.githubusercontent.com/68372094/148721259-27a581de-95ab-4050-99bf-1ecdbeea4f99.gif)
 
