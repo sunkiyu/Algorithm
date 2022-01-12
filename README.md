@@ -67,6 +67,7 @@
   ###### [출처](https://codepumpkin.com/merge-sort-sorting-algorithm/)
  
  > 배열을 배열의 크기가 1이 될 때까지 두 부분 배열로 나누는 것을 반복한 후, 두 부분 배열을 원래 크기가 될 때까지 합친다.
+ 
  > 최선 시간복잡도= __O(NlogN)__
  
  > 최악 시간복잡도= __O(N^2)__
