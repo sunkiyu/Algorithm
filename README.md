@@ -6,7 +6,9 @@
   * [삽입 정렬](#삽입-정렬)
   * [퀵 정렬](#퀵-정렬)
   * [병합 정렬](#병합-정렬)
-## 2. STL
+## 2. 데이터 처리 알고리즘
+  * [탐욕(그리디) 알고리즘](#탐욕(그리디)-알고리즘)
+## 3. STL
   * [upper_bound/lower_bound](#upper_bound-lower_bound)
 * * *
 
@@ -77,6 +79,9 @@
    ## **upper_bound lower_bound**
    * 이진 탐색을 기반으로 하는 함수이다. 이진 탐색은 시간복잡도 O(logN)이며 최악의 경우 O(NlogN)이다.
    * upper_bound(begin,end,value) => value를 초과하는 첫번째 인자의 반복자를 리턴
-   * lower_bound(begin,end,value) => value와 이상(크거나 같은)의 첫번째 반복자를 리턴
-
+   * lower_bound(begin,end,value) => value와 이상(크거나 같은)의 첫번째 반복자를 리턴   
+  
+  ## 탐욕(그리디) 알고리즘
+  * 프림 알고리즘
+  * 크루스칼 알고리즘
  
