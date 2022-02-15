@@ -94,7 +94,7 @@
   * ex) 4개의 숫자 중 2개를 숫서없이 뽑는 경우  4!/2!2! = 6가지이다. ((1,2),(1,3),(1,4),(2,3),(2,4),(3,4))   
   ![image](https://user-images.githubusercontent.com/68372094/153983687-6dfa16d5-71b9-45fb-a3f0-1aa015063be3.png)   
   (0<=k<=n)일 경우.   
-  아래 식의 위의 식과 동치이다.
+  아래 식은 위의 식과 동치이다.   
   ![image](https://user-images.githubusercontent.com/68372094/153992425-a3242b7f-8ddd-46cf-818d-0da083e3bb95.png)   
   ![image](https://user-images.githubusercontent.com/68372094/153992446-ef6e5279-52ba-40c0-975d-81a887992a62.png)   
   ![image](https://user-images.githubusercontent.com/68372094/153992474-7f4e003f-0fed-4c44-8a67-25479a2b8c7c.png)
