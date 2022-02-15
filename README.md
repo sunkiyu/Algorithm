@@ -8,6 +8,7 @@
   * [병합 정렬](#병합-정렬)
 ## 2. 데이터 처리 알고리즘
   * [탐욕(그리디) 알고리즘](#탐욕-알고리즘)
+  * [이항계수](#이항계수)
 ## 3. STL
   * [upper_bound/lower_bound](#upper_bound-lower_bound)
 * * *
@@ -86,5 +87,18 @@
   * **프림 알고리즘** - 정점 간 비용이 적게 드는 순으로 연결하여 최소 신장트리를 완성한다.   
   [프림 알고리즘 응용 소스코드 - BOJ 1197](https://github.com/sunkiyu/BAEKJOON/blob/f780cf6b147d22937bbe77afab7954922b749ab3/C++/1197_Prim)
   * **크루스칼 알고리즘** - 정점 간 비용이 적게 드는 순으로 같은 부모를 같도록 설정한 뒤 연결한다. 부모가 같다면 사이클이 발생하므로 연결하지 않고 부모가 다른 경우만 연결한다.   
-  [크루스칼 알고리즘 응용 소스코드 - BOJ 1197](https://github.com/sunkiyu/BAEKJOON/blob/4e3082b2d819fe341a09a6faff1d8d03711ee948/C++/1197_Kruskal)
+  [크루스칼 알고리즘 응용 소스코드 - BOJ 1197](https://github.com/sunkiyu/BAEKJOON/blob/4e3082b2d819fe341a09a6faff1d8d03711ee948/C++/1197_Kruskal)   
+  
+  ## 이항계수   
+  * n개의 집합에서 k개 만큼 순서없이 뽑는 조합의 가짓수를 뜻한다.(순열이 아니다.)      
+  * ex) 4개의 숫자 중 2개를 숫서없이 뽑는 경우  4!/2!2! = 6가지이다. ((1,2),(1,3),(1,4),(2,3),(2,4),(3,4))   
+  ![image](https://user-images.githubusercontent.com/68372094/153983687-6dfa16d5-71b9-45fb-a3f0-1aa015063be3.png)   
+  (0<=k<=n)일 경우.   
+  아래 식의 위의 식과 동치이다.
+  ![image](https://user-images.githubusercontent.com/68372094/153992425-a3242b7f-8ddd-46cf-818d-0da083e3bb95.png)   
+  ![image](https://user-images.githubusercontent.com/68372094/153992446-ef6e5279-52ba-40c0-975d-81a887992a62.png)   
+  ![image](https://user-images.githubusercontent.com/68372094/153992474-7f4e003f-0fed-4c44-8a67-25479a2b8c7c.png)
+
+
+
  
