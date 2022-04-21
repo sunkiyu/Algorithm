@@ -100,59 +100,6 @@
   ![image](https://user-images.githubusercontent.com/68372094/153992446-ef6e5279-52ba-40c0-975d-81a887992a62.png)   
   ![image](https://user-images.githubusercontent.com/68372094/153992474-7f4e003f-0fed-4c44-8a67-25479a2b8c7c.png)   
   
-  ## 이분매칭
-  -이분 매칭 알고리즘은 각 정점과 정점사이를 최대로 많이 연결할 경우를 도출해내는 알고리즘이다.   
-  #include <iostream>
-#include <vector>
-#define MAX 101
-
-using namespace std;
-
-vector<int> a[MAX];
-int d[MAX];
-bool c[MAX];
-int n = 3, m, s;
-
-bool dfs(int x) {
-    //x 정점과 연결된 모든 점들(t)를 연결 가능한 경우의 수에 대입해본다.
-    for(int i = 0; i < a[x].size(); i++) {
-        int t = a[x][i];
-        //앞에서 해당 점정은 매칭되어 있다.
-        if(c[t]) continue;
-        c[t] = true;
-        // t라는 정점이 매칭되지 않은 경우, 혹은 매칭 되어있다면 매칭되어 있는 정점을 다른 정점으로 연결시켜 빈자리를 얻어본다.
-        if(d[t] == 0 || dfs(d[t])) {
-            d[t] = x;
-            return true;
-        }
-    }
-    return false;
-}
-
-int main(int argc, char *argv[])
-{
-    QCoreApplication ab(argc, argv);
-
-    a[1].push_back(1);
-    a[1].push_back(2);
-    a[1].push_back(3);
-    a[2].push_back(1);
-    a[3].push_back(2);
-    int count = 0;
-    for(int i = 1; i <= n; i++) { // 최대한 우겨 넣습니다.
-        fill(c, c + MAX, false);
-        if(dfs(i))
-            count++;
-    }
-    printf("%d개의 매칭이 이루어졌습니다.\n", count);
-    for(int i = 1; i <= 100; i++) {
-        if(d[i] != 0) {
-            printf("%d -> %d\n", d[i], i);
-        }
-    }
-    return ab.exec();
-}
-
 
 
  
